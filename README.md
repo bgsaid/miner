@@ -1,1 +1,1 @@
-# miner
+for mining nicehash
